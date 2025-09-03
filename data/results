@@ -1,0 +1,9 @@
+Model Results (Logistic Regression)
+
+The Logistic Regression model achieved an accuracy of ~49%, which is close to random guessing.
+
+Precision (0.48) and Recall (0.39) for churn show that the model struggles to correctly identify customers at risk of leaving.
+
+The ROC-AUC score (0.48) further indicates that the model is not effective at distinguishing churn vs non-churn.
+
+This suggests that churn prediction in this dataset is complex and may require advanced models (Random Forest, XGBoost) and techniques like SMOTE to handle class imbalance.
