@@ -55,3 +55,17 @@ Future enhancements:
 - Test with Random Forest, XGBoost, and Ensemble models.  
 - Use SMOTE for handling class imbalance.  
 - Deploy the model as a Flask/Django web app.  
+
+confusion matrix:
+<img width="444" height="393" alt="image" src="https://github.com/user-attachments/assets/3e7ee2fb-c34d-4899-8bd8-9e6cf1259815" />
+
+ROC Curve-Logistic Regression
+<img width="536" height="470" alt="image" src="https://github.com/user-attachments/assets/7986bbd2-2377-490b-b3d3-e9fa5e78d612" />
+
+Press Recall Curve-Logistic Rgeression
+<img width="536" height="470" alt="image" src="https://github.com/user-attachments/assets/5dd53c49-fa4e-468e-93d5-49022509ee4a" />
+
+Top features with the most impact for churns
+<img width="767" height="547" alt="image" src="https://github.com/user-attachments/assets/7aaf5652-e3e6-4a85-afdc-b1ef5dfad7d8" />
+
+
